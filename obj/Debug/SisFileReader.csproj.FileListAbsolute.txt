@@ -1,0 +1,10 @@
+C:\Desenvolvimento_Sispro\Fontes\SisFileReader\bin\Debug\SisFileReader.exe.config
+C:\Desenvolvimento_Sispro\Fontes\SisFileReader\bin\Debug\SisFileReader.exe
+C:\Desenvolvimento_Sispro\Fontes\SisFileReader\bin\Debug\SisFileReader.pdb
+C:\Desenvolvimento_Sispro\Fontes\SisFileReader\obj\Debug\SisFileReader.csproj.AssemblyReference.cache
+C:\Desenvolvimento_Sispro\Fontes\SisFileReader\obj\Debug\SisFileReader.Properties.Resources.resources
+C:\Desenvolvimento_Sispro\Fontes\SisFileReader\obj\Debug\SisFileReader.csproj.GenerateResource.cache
+C:\Desenvolvimento_Sispro\Fontes\SisFileReader\obj\Debug\SisFileReader.csproj.CoreCompileInputs.cache
+C:\Desenvolvimento_Sispro\Fontes\SisFileReader\obj\Debug\SisFileReader.exe
+C:\Desenvolvimento_Sispro\Fontes\SisFileReader\obj\Debug\SisFileReader.pdb
+C:\Desenvolvimento_Sispro\Fontes\SisFileReader\obj\Debug\SisFileReader.FileDataForm.resources
